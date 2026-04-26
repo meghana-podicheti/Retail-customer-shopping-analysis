@@ -1,8 +1,12 @@
 # Retail Customer Insights & Behavior Analysis
 
-This project analyzes customer shopping behavior to identify trends, customer segments, and revenue patterns.
+An end-to-end data analytics project that analyzes 3,900+ customer transactions to uncover purchasing patterns, customer segments, and revenue trends.
 
----
+This project uses Python, MySQL, and Power BI to generate actionable business insights.
+
+## 📌 Business Problem
+
+How can a retail company use customer shopping data to improve sales, customer engagement, and overall business performance?
 
 ## 📊 Dashboard Preview
 
